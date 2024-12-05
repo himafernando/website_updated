@@ -1,0 +1,21 @@
+---
+format: html
+---
+
+## Publications {#publications}
+
+### Journal Articles {#journal-articles}
+
+1. **Fernando, W.H.H.**, Waidyarathne, K.P., & Jayasundara, D.D.M. (2020). Proper Data Analysis Techniques to Reduce Experimental Error in Longitudinal Data. *International Journal of Sciences: Basic and Applied Research*, 54(4), 273-288. <a href="https://www.gssrr.org/index.php/JournalOfBasicAndApplied/article/view/11934" style="text-decoration: none; color: #007bff; padding: 5px 10px; border: 1px solid #007bff; border-radius: 3px;">Read Paper</a>
+
+2. Supriya, Priyanka Lal, **W.H.H. Fernando**, Binita Kumari, Pradeep Mishra, Aditya Bhooshan, Srivastava, Mostafa Abotaleb, Ritisha Balloo, Mohamed Lounis & Rita Kapil Narvariya (2021). State of the art of ARIMA modeling in top five egg production countries in the World. *Ama, Agricultural Mechanization in Asia, Africa & Latin America*, 51(3), 1599-1609. <a href="https://www.shin-norinco.com/article/state-of-art-of-arima-modeling-in-top-five-egg-production-countries-in-world" style="text-decoration: none; color: #007bff; padding: 5px 10px; border: 1px solid #007bff; border-radius: 3px;">Read Paper</a>
+
+3. Deepa Rawat, Pradeep Mishra, Soumik Ray, **Himasha Harshani Fernando Warnakulasooriya**, Sarswati Prakash Sati, Gaurav Mishra, Hussein Alkattan & Mostafa Abotaleb (2022). Modeling of rainfall time series using NAR and ARIMA model over western Himalaya, India. *Arabian Journal of Geosciences*, 15(1696). <a href="https://link.springer.com/article/10.1007/s12517-022-10994-7" style="text-decoration: none; color: #007bff; padding: 5px 10px; border: 1px solid #007bff; border-radius: 3px;">Read Paper</a>
+
+---
+
+### Conference Proceedings {#conference-proceedings}
+
+1. **Fernando, W.H.H** & Jayasundara, D.D.M. (2020). Reduction of Experimental Error in Coconut Research by Choosing Proper Data Analysis Techniques. In *International Conference on Applied and Pure Sciences*, University of Kelaniya, Sri Lanka.
+
+2. **Fernando, W.H.H**, Jayalath P.M.S., Premarathne, R.M.S.M., Chandrasekara, N.V. (2021). Time Series Model to Forecast Monthly Average White Raw Rice Prices in Colombo, Sri Lanka. In *8th Ruhuna International Science & Technology Conference*, University of Ruhuna, Matara, Sri Lanka.

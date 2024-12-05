@@ -1,0 +1,35 @@
+---
+title: "Hi! Welcome to My Homepage"
+format: html
+---
+
+<!-- Add Font Awesome CDN for icons -->
+
+<head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"></head>
+
+<!-- Profile Picture -->
+
+<img src="Himasha_Warnakulasooriya.jpg" alt="Profile Picture" style="border-radius: 50%; width: 450px; height: 430px;"/>
+
+::: {style="display: flex; gap: 30px; align-items: center; margin-top: 20px;"}
+<a href="https://www.linkedin.com/in/himasha-warnakulasooriya-a29b861b1/" target="_blank" style="text-decoration: none; color: #0077b5; font-size: 24px;"> <i class="fab fa-linkedin"></i> </a> <a href="https://scholar.google.com.au/citations?user=sY1f7AcAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #4285F4; font-size: 24px;"> <i class="fas fa-graduation-cap"></i> </a> <a href="https://orcid.org/0000-0002-7937-6136" target="_blank" style="text-decoration: none; color: #A6CE39; font-size: 24px;"> <i class="fas fa-id-card"></i> </a> <a href="https://www.researchgate.net/profile/Himasha-Warnakulasooriya-2" target="_blank" style="text-decoration: none; color: #00cc99; font-size: 24px;"> <i class="fab fa-researchgate"></i> </a> <a href="mailto:himasha.warnakulasooriya@monash.edu" style="text-decoration: none; color: #4285F4; font-size: 24px;"> <i class="fas fa-envelope"></i> </a>
+:::
+
+<p>I am a final-year Ph.D. student in the [Department of Econometrics and Business Statistics at Monash University](https://www.monash.edu/business/ebs), under the supervision of [Dr. Hamza Hanbali](https://findanexpert.unimelb.edu.au/profile/1083099-hamza-hanbali), [Professor Brett Inder](https://lens.monash.edu/@brett-inder) and [Dr. Jessica Leung](https://research.monash.edu/en/persons/jessica-leung). My research focuses on longevity risk management and designing pension solutions.</p>
+
+<p>In addition to my research, I am also working as a teaching associate in the Department of Econometrics and Business Statistics at Monash University, Australia.</p>
+
+## Education {#education}
+
+🎓 **Ph.D. Candidate** (2022 - Present)\
+Department of Econometrics and Business Statistics, Monash University, Australia
+
+🎓 **B.Sc. (Hons) in Statistics** (2016 - 2020)\
+University of Kelaniya, Sri Lanka
+
+## Research Interests {#reserach-interest}
+
+-   Longevity risk management
+-   Life-cycle modelling
+-   Optimization
+-   Time series analysis

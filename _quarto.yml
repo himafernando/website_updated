@@ -1,0 +1,28 @@
+project:
+  type: website
+
+
+website:
+  title: "Himasha Warnakulasooriya"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: CV.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+      - href: talks.qmd
+        text: Talks
+      - href: teaching.qmd
+        text: Teaching
+      
+
+format:
+  html:
+    theme: cerulean
+    css: styles.css
+    toc: true
+
+editor: visual
+

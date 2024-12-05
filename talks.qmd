@@ -1,0 +1,55 @@
+---
+format: html
+---
+
+```{=html}
+<style>
+  /* Table styling */
+  .colored-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .colored-table th, .colored-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  .colored-table th {
+    background-color: #f2f2f2;
+    color: #333;
+  }
+
+  .colored-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+
+  .colored-table tr:hover {
+    background-color: #d1e7fd;
+  }
+
+  .colored-table a {
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  .colored-table a:hover {
+    text-decoration: underline;
+  }
+</style>
+```
+## Talks {#talks}
+
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
+| Date        | Title                                                                                                                                                                                             | Venue                                                                                                         |
++=============+===================================================================================================================================================================================================+===============================================================================================================+
+| 27-Nov-2024 | [Utilizing superannuation funds for first home purchase](https://cepar.edu.au/sites/default/files/Colloquium-2024-Booklet.pdf)                                                                    | 32nd Colloquium on Pensions and Retirement Research, University of New South Wales, Sydney, Australia         |                                                                |
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
+| 20-Nov-2024 | Utilizing superannuation funds for first home purchase                                                                                                                                            | 2024 Australasian Actuarial Education and Research Symposium, Monash University, Australia                    |                                                               |
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
+| 23-Nov-2023 | [Optimal systematic longevity risk-sharing designs for annuities: reconciling policyholder's and insurer's perspectives](https://sms.wgtn.ac.nz/Events/AAERS2023/AbstractHimashaWarnakulasooriya) | 2023 Australasian Actuarial Education and Research Symposium, Victoria University of Wellington, New Zealand  |
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
+| 17-Feb-2021 | [Time Series Model to Forecast Monthly Average White Raw Rice Prices in Colombo, Sri Lanka](https://www.sci.ruh.ac.lk/conference/ristcon2021/proceedings/RISTCON2021_Proceedings.pdf)             | 8th Ruhuna International Science & Technology Conference, Faculty of Science, University of Ruhuna, Sri Lanka |
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
+| 26-Nov-2020 | [Reduction of Experimental Error in Coconut Research by Choosing Proper Data Analysis Techniques](http://repository.kln.ac.lk/handle/123456789/21824)                                             | International Conference on Applied and Pure Sciences, Faculty of Science, University of Kelaniya, Sri Lanka  |
++-------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
